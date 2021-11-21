@@ -1,0 +1,21 @@
+.bg-header{
+    background-color: #264653;
+    Height :auto;
+}
+.header-bike{
+    height: 447px;
+    width: 552px;
+}
+.rating{
+    color:#E77C40;
+
+}
+.faq img{
+    width: 400px;
+    height: 424px;
+}
+
+.dets a{
+    text-decoration: none;
+    color: rgb(255, 17, 0);
+}
